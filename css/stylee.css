@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+#header_conteiner{
+    max-width: 1140px;
+    width:100%;
+    text-align: left; 
+    margin-top: 12px;
+    margin-left: 80px; 
+
+}
+    
+
+
+#nav_box{
+    margin-left: auto;
+    margin-bottom: 76px;
+}
+
+#nav_logo{
+    vertical-align: middle;
+    margin-right: 180px;
+}
+
+
+#link_box{
+   
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;  
+    margin-right: 180px;
+}
+    
+#contact_botton{
+    background-color:#E9D7FE ;
+    border-radius:9px ;
+    width: 105px;
+    height: 33px;
+    border-color: #AC00FF;
+    color: #E9D7FE;
+    
+
+}
+
+#butron_text{
+    color: #AC00FF;
+    font-size: 14px;
+    text-align: center;
+    padding: 16px  8px;
+}
+
+a{
+    padding: 20px;
+    color: #323232;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+#main_conteiner{
+    max-width: 846px;
+    width: 100%;
+    margin-left: 214px;
+}
+
+  #info_box{
+    max-width: 838px;
+    width: 100%;
+    display: inline-block;
+    
+  }
+
+h1{
+    color: #323232;
+    font-size: 64px;
+    font-weight: 400;
+    height: 148px;
+    width: 581px; 
+}
+
+#info_paragraf{
+    width: 774px;
+    height: 64px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    color: #323232;
+    font-size: 24px;
+}
+
+#join_button{
+    background: #5C3BAE;
+    border-radius: 8px;
+    width: 204px;
+    padding: 16px 24px;
+    border: none;
+    display: inline;
+    margin-right: 24px;
+}
+
+#join_text{
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+
+
+#icon_play{
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+}
+
+#watch_wideo{
+    width: 150px;
+    height: 22px;
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ #whatch_video_box{
+    color: #4D3491;
+    font-size: 18px;
+ }
+
+
+ #card_foto{
+    width: 1300px;
+    height: 633px;
+    margin-top: auto;
+ }
